@@ -1,4 +1,4 @@
-📌 Project Overview
+##📌 Project Overview
 This project focuses on detecting fake news using machine learning, specifically the Naïve Bayes classifier. Fake news spreads rapidly on social media and can negatively impact public discourse. The goal is to build an efficient fake news detection model that can differentiate between real and fake news articles.
 
 🗂️ Dataset
