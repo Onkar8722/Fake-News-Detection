@@ -38,7 +38,7 @@ Expanding the dataset to support multiple languages.
 Developing a real-time browser extension for fake news detection.
 Improving the user interface for accessibility.
 
-🛠️ Tech Stack<br
+🛠️ Tech Stack<br>
 Programming Language: Python
 Libraries Used: Pandas, NumPy, Scikit-learn, Matplotlib
 Development Environment: Google Colab
